@@ -12,6 +12,7 @@ The EinsatzScan can steal non-file lua execution. Found stuff is written to **/e
 ## How to use?
 This DLL is for injection into Garry's Mod process.\
 The injector doesn't matter, so you can just use Cheat Engine for your purposes.\
+You DON'T need to put the DLL to a Garry's Mod folder!\
 Inject it, when you are in main menu, and now you can connect to the server.
 
 ## Screenshots
