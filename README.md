@@ -6,6 +6,9 @@ The EinsatzScan writes data to a special folder (**/Steam/steamapps/common/Garry
 The EinsatzScan steals files with correct folder structure.\
 The EinsatzScan can steal non-file lua execution. Found stuff is written to **/engine_calls/** folder of server.
   
+## Download
+[See Releases](https://github.com/EinsatzGruppen/EinsatzScan/releases)
+
 ## How to use?
 This DLL is for injection into Garry's Mod process.\
 The injector doesn't matter, so you can just use Cheat Engine for your purposes.\
