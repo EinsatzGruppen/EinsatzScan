@@ -1,5 +1,5 @@
 # EinsatzScan
-Lua file stealer for Garry's Mod. Of course, it is steals only clientside and shared files. **The EinsatzScan cannot be detected** by all Garry's Mod cheats and by any other way via lua.
+Lua file stealer for Garry's Mod. Of course, it is steals only clientside and shared files. **The EinsatzScan cannot be detected** by all Garry's Mod anti-cheats and by any other way via lua.
 
 ## Additional information
 The EinsatzScan writes data to a special folder (**/Steam/steamapps/common/GarrysMod_ES/-server-/**).\
